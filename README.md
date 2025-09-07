@@ -1,4 +1,4 @@
-# Trabajo Practico N° 2 --- Programación Web
+# Trabajo Practico N° 2 Atomic Design --- Programación Web
 
 
 ## Descripción
@@ -14,7 +14,7 @@ En este trabajo se pidio realizar el "esqueleto" de una lista de tareas basicas,
 
 Máximo Vinuesa - [@Linkedin](https://www.linkedin.com/in/maximo-vinuesa/) - [@Gmail](maxivinuesa23@gmail.com)
 
-Enlace del Proyecto: ()
+Enlace del Proyecto: (https://github.com/Maxivinuesa23/ManosALaObra2-Dise-oAtomico)
 
 
 ![Versión](https://img.shields.io/badge/version-1.0.0-blue.svg)
